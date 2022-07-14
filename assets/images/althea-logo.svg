@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="2048px" height="2048px" viewBox="0 0 2048 2048" enable-background="new 0 0 2048 2048" xml:space="preserve">
+<g>
+	<circle id="Outline" fill="#FFCA83" cx="1026.61" cy="1024" r="1017.72"/>
+	<circle id="Background" fill="#212121" cx="1026.61" cy="1024" r="906.56"/>
+	
+		<radialGradient id="SVGID_1_" cx="1026.6094" cy="1023.999" r="906.5586" gradientTransform="matrix(-1 0 0 -1 2053.2246 2048)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="0.8587" style="stop-color:#FFFFFF;stop-opacity:0.0429"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.05"/>
+	</radialGradient>
+	<circle fill="url(#SVGID_1_)" cx="1026.62" cy="1024" r="906.56"/>
+	<g>
+		<polygon fill="#FFCA83" points="1433.98,1457.12 1353.28,1317.33 1272.58,1177.54 1433.98,1177.54 1595.4,1177.54 
+			1514.69,1317.33 		"/>
+		<polygon fill="#FFCA83" points="1024.04,1457.12 943.34,1317.33 862.63,1177.54 1024.04,1177.54 1185.45,1177.54 1104.75,1317.33 
+					"/>
+		<polygon fill="#FFCA83" points="613.93,1457.12 533.22,1317.33 452.52,1177.54 613.93,1177.54 775.34,1177.54 694.64,1317.33 		
+			"/>
+		<polygon fill="#FFCA83" points="1228.97,1102.04 1148.27,962.25 1067.56,822.47 1228.97,822.47 1390.38,822.47 1309.68,962.25 		
+			"/>
+		<polygon fill="#FFCA83" points="818.94,1102.04 738.24,962.25 657.53,822.47 818.94,822.47 980.36,822.47 899.65,962.25 		"/>
+		<polygon fill="#FFCA83" points="1024.04,745.92 943.34,606.13 862.63,466.34 1024.04,466.34 1185.45,466.34 1104.75,606.13 		"/>
+		<polygon fill="#FFCA83" points="1228.98,1202.46 1309.68,1342.24 1390.38,1482.03 1228.98,1482.03 1067.56,1482.03 
+			1148.27,1342.24 		"/>
+		<polygon fill="#FFCA83" points="818.95,1202.46 899.65,1342.24 980.36,1482.03 818.95,1482.03 657.53,1482.03 738.24,1342.24 		
+			"/>
+		<polygon fill="#FFCA83" points="1229.06,490.75 1309.76,630.53 1390.47,770.32 1229.06,770.32 1067.65,770.32 1148.35,630.53 		
+			"/>
+		<polygon fill="#FFCA83" points="819.03,490.75 899.73,630.53 980.44,770.32 819.03,770.32 657.62,770.32 738.32,630.53 		"/>
+		<polygon fill="#FFCA83" points="1434.07,847.91 1514.77,987.7 1595.48,1127.48 1434.07,1127.48 1272.66,1127.48 1353.37,987.7 		
+			"/>
+		<polygon fill="#FFCA83" points="1024.04,847.91 1104.74,987.7 1185.45,1127.48 1024.04,1127.48 862.63,1127.48 943.34,987.7 		"/>
+		<polygon fill="#FFCA83" points="613.93,847.91 694.63,987.7 775.34,1127.48 613.93,1127.48 452.52,1127.48 533.22,987.7 		"/>
+	</g>
+</g>
+<radialGradient id="SVGID_2_" cx="1026.6123" cy="1024" r="1019.1807" gradientTransform="matrix(-1 0 0 -1 2053.2246 2048)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.03"/>
+	<stop  offset="0.8587" style="stop-color:#FFFFFF;stop-opacity:0.03"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.03"/>
+</radialGradient>
+<circle fill="url(#SVGID_2_)" cx="1026.61" cy="1024" r="1019.18"/>
+</svg>
