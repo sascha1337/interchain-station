@@ -2,6 +2,8 @@
 
 The interchain station.
 
+![photo_2022-07-14 13 06 21](https://user-images.githubusercontent.com/12372821/178903542-0593ca34-8274-4095-b681-38aa4e44e88c.jpeg)
+
 ## About
 
 Althea is a community-built, permissionless, multi-platform DeFi service app
